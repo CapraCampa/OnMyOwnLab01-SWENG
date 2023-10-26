@@ -53,7 +53,7 @@ public class DoublyLinkedListTest {
     }
 
 
-  /*  @Test
+    @Test
     public void testUnshiftShift() {
         DoublyLinkedList<Character> list = new DoublyLinkedList<>();
 
