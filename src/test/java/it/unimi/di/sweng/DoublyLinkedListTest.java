@@ -103,7 +103,7 @@ public class DoublyLinkedListTest {
     }
 
 
- /*   @Test
+    @Test
     public void testPopExceptionalSituation() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 

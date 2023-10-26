@@ -25,6 +25,7 @@ public class DoublyLinkedList<T>{
     }
 
     public T pop(){
+
         T value = tail.value;
         if (head==tail){
             head=null;
