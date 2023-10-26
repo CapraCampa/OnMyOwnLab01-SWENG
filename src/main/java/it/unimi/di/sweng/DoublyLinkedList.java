@@ -37,6 +37,9 @@ public class DoublyLinkedList<T>{
     }
 
     public T shift(){
+        if (head==null){
+            throw new IllegalStateException("Empty List: illegal shift operation");
+        }
         T value = head.value;
         if (head==tail){
             tail=null;
