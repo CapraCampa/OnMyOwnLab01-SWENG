@@ -119,7 +119,7 @@ public class DoublyLinkedListTest {
 
 
 
- /*   @Test
+    @Test
     public void testShiftExceptionalSituation() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 
