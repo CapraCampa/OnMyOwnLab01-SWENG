@@ -39,7 +39,7 @@ public class DoublyLinkedListTest {
         assertThat(list.shift()).isEqualTo("10");
     }
 
-  /*  @Test
+    @Test
     public void testMorePushShift() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 
