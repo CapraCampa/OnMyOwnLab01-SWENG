@@ -25,7 +25,9 @@ public class DoublyLinkedList<T>{
     }
 
     public T pop(){
-
+        if (tail==null){
+            throw new IllegalStateException("Empty List: illegal pop operation");
+        }
         T value = tail.value;
         if (head==tail){
             head=null;
