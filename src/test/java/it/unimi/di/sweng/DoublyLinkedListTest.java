@@ -16,7 +16,7 @@ public class DoublyLinkedListTest {
         assertThat(list.pop()).isEqualTo(10);
     }
 
- /*   @Test
+    @Test
     public void testMorePushPop() {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();
 
