@@ -42,6 +42,18 @@ public class DoublyLinkedList<T>{
         return value;
     }
 
+    public void unshift(T value){
+        Node nodo = new Node(value);
+        if (Objects.isNull(head)){
+            head = nodo;
+            tail = nodo;
+        }else{
+            nodo.next=head;
+            head.prev=nodo;
+            head=nodo;
+        }
+    }
+
     public class Node {
          final T value;
          Node next = null;

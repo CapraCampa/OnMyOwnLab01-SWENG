@@ -67,7 +67,7 @@ public class DoublyLinkedListTest {
     }
 
 
- /*   @Test
+    @Test
     public void testUnshiftPop() {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();
 
@@ -81,7 +81,7 @@ public class DoublyLinkedListTest {
     }
 
 
- /*   @Test
+  @Test
     public void testExample() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 
