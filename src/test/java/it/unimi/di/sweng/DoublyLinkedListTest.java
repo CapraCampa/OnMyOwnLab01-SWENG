@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 public class DoublyLinkedListTest {
 
- /*   @Test
+    @Test
     public void testPushPop() {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();
 
