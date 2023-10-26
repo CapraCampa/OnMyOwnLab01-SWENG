@@ -30,7 +30,7 @@ public class DoublyLinkedListTest {
     }
 
 
-  /*  @Test
+    @Test
     public void testPushShift() {
         DoublyLinkedList<String> list = new DoublyLinkedList<>();
 
