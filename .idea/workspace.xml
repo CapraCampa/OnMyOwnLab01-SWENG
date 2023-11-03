@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29c4479f-aa60-457e-b909-004c8dec1341" name="Changes" comment="REFACTORING: sistemato alcuni dettagli" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WLhcSEAhHJLLrmuV8W6Dr5RZLR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Utente/IdeaProjects/OnMyOwn-SWENG/Lab01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.unimi.di.sweng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.DoublyLinkedListTest">
+    <configuration name="DoublyLinkedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.sweng.DoublyLinkedListTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testExample" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.sweng.DoublyLinkedListTest.testExample&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testPopExceptionalSituation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.sweng.DoublyLinkedListTest.testPopExceptionalSituation&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testShiftExceptionalSituation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.sweng.DoublyLinkedListTest.testShiftExceptionalSituation&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DoublyLinkedListTest.testUnshiftPop" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;it.unimi.di.sweng.DoublyLinkedListTest.testUnshiftPop&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DoublyLinkedListTest" />
+        <item itemvalue="Gradle.DoublyLinkedListTest.testShiftExceptionalSituation" />
+        <item itemvalue="Gradle.DoublyLinkedListTest.testPopExceptionalSituation" />
+        <item itemvalue="Gradle.DoublyLinkedListTest.testExample" />
+        <item itemvalue="Gradle.DoublyLinkedListTest.testUnshiftPop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c4479f-aa60-457e-b909-004c8dec1341" name="Changes" comment="" />
+      <created>1696517848774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696517848774</updated>
+      <workItem from="1696517852053" duration="3894000" />
+      <workItem from="1697094484793" duration="664000" />
+      <workItem from="1697114457809" duration="66000" />
+      <workItem from="1698181103242" duration="386000" />
+      <workItem from="1698304652612" duration="5667000" />
+      <workItem from="1699045074428" duration="548000" />
+      <workItem from="1699045643427" duration="68000" />
+    </task>
+    <task id="LOCAL-00001" summary="refactoring">
+      <option name="closed" value="true" />
+      <created>1696518800681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696518800681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactoring">
+      <option name="closed" value="true" />
+      <created>1698181148736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698181148736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iniziamo">
+      <option name="closed" value="true" />
+      <created>1698181765789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698181765789</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GREEN: passa il primo test, ma è una soluzione finta, dovrò cambiarla molto probabilmente">
+      <option name="closed" value="true" />
+      <created>1698305828051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698305828052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="RED: non passa il secondo test, me lo aspettavo">
+      <option name="closed" value="true" />
+      <created>1698305887051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698305887051</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GREEN: passa anche il secondo test, ho aggiunto la classe interna Node per permettere di aggiungere e togliere nodi">
+      <option name="closed" value="true" />
+      <created>1698307860298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698307860298</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RED: fallisce il secondo test, devo aggiungere i generics">
+      <option name="closed" value="true" />
+      <created>1698307944374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698307944374</updated>
+    </task>
+    <task id="LOCAL-00008" summary="GREEN: passa anche il terzo test, ho aggiunto i generics e la funzione shift">
+      <option name="closed" value="true" />
+      <created>1698308540617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308540617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="GREEN: sistemando per il terzo test ho fatto funzionare anche il quarto, ho aggiunto i generics e la funzione shift">
+      <option name="closed" value="true" />
+      <created>1698308592205</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308592205</updated>
+    </task>
+    <task id="LOCAL-00010" summary="RED: fallisce il quinto test, devo aggiungere la funzione unshift">
+      <option name="closed" value="true" />
+      <created>1698308633042</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308633042</updated>
+    </task>
+    <task id="LOCAL-00011" summary="GREEN: passa il quinto test, ho aggiunto la funzione shift">
+      <option name="closed" value="true" />
+      <created>1698308818023</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308818023</updated>
+    </task>
+    <task id="LOCAL-00012" summary="GREEN: passa tutti i test fino al &quot;testPopExceptionalSituation()&quot;, ho aggiunto solo la funzione shift">
+      <option name="closed" value="true" />
+      <created>1698308881003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698308881003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="GREEN: passa tutti i test fino al &quot;testPopExceptionalSituation()&quot;, ho aggiunto solo la funzione unshift">
+      <option name="closed" value="true" />
+      <created>1698323316684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323316684</updated>
+    </task>
+    <task id="LOCAL-00014" summary="RED: non passa &quot;testPopExceptionalSituation()&quot;">
+      <option name="closed" value="true" />
+      <created>1698323463551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323463551</updated>
+    </task>
+    <task id="LOCAL-00015" summary="GREEN: ora passa il test, ho aggiunto controllo nella &quot;pop&quot;">
+      <option name="closed" value="true" />
+      <created>1698323499780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323499780</updated>
+    </task>
+    <task id="LOCAL-00016" summary="RED: non passa &quot;testShiftExceptionalSituation&quot;">
+      <option name="closed" value="true" />
+      <created>1698323537334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323537334</updated>
+    </task>
+    <task id="LOCAL-00017" summary="GREEN: passa il test, ho aggiunto i controlli in shift">
+      <option name="closed" value="true" />
+      <created>1698323602462</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698323602462</updated>
+    </task>
+    <task id="LOCAL-00018" summary="REFACTORING: sistemato alcuni dettagli">
+      <option name="closed" value="true" />
+      <created>1699045404818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699045404818</updated>
+    </task>
+    <task id="LOCAL-00019" summary="REFACTORING: sistemato alcuni dettagli">
+      <option name="closed" value="true" />
+      <created>1699045577671</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699045577671</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="iniziamo" />
+    <MESSAGE value="GREEN: passa il primo test, ma è una soluzione finta, dovrò cambiarla molto probabilmente" />
+    <MESSAGE value="RED: non passa il secondo test, me lo aspettavo" />
+    <MESSAGE value="GREEN: passa anche il secondo test, ho aggiunto la classe interna Node per permettere di aggiungere e togliere nodi" />
+    <MESSAGE value="RED: fallisce il secondo test, devo aggiungere i generics" />
+    <MESSAGE value="GREEN: passa anche il terzo test, ho aggiunto i generics e la funzione shift" />
+    <MESSAGE value="GREEN: sistemando per il terzo test ho fatto funzionare anche il quarto, ho aggiunto i generics e la funzione shift" />
+    <MESSAGE value="RED: fallisce il quinto test, devo aggiungere la funzione unshift" />
+    <MESSAGE value="GREEN: passa il quinto test, ho aggiunto la funzione shift" />
+    <MESSAGE value="GREEN: passa tutti i test fino al &quot;testPopExceptionalSituation()&quot;, ho aggiunto solo la funzione shift" />
+    <MESSAGE value="GREEN: passa tutti i test fino al &quot;testPopExceptionalSituation()&quot;, ho aggiunto solo la funzione unshift" />
+    <MESSAGE value="RED: non passa &quot;testPopExceptionalSituation()&quot;" />
+    <MESSAGE value="GREEN: ora passa il test, ho aggiunto controllo nella &quot;pop&quot;" />
+    <MESSAGE value="RED: non passa &quot;testShiftExceptionalSituation&quot;" />
+    <MESSAGE value="GREEN: passa il test, ho aggiunto i controlli in shift" />
+    <MESSAGE value="REFACTORING: sistemato alcuni dettagli" />
+    <option name="LAST_COMMIT_MESSAGE" value="REFACTORING: sistemato alcuni dettagli" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2023_lab01$DoublyLinkedListTest.ic" NAME="DoublyLinkedListTest Coverage Results" MODIFIED="1696521643758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
