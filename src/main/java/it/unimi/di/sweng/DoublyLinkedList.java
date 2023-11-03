@@ -16,12 +16,11 @@ public class DoublyLinkedList<T>{
         Node nodo = new Node(value);
         if (Objects.isNull(head)){
             head = nodo;
-            tail = nodo;
         }else{
             nodo.prev=tail;
             tail.next=nodo;
-            tail=nodo;
         }
+        tail = nodo;
     }
 
     public T pop(){
