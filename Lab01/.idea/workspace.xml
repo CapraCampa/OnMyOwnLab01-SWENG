@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29c4479f-aa60-457e-b909-004c8dec1341" name="Changes" comment="REFACTORING: sistemato alcuni dettagli" />
+    <list default="true" id="29c4479f-aa60-457e-b909-004c8dec1341" name="Changes" comment="REFACTORING: sistemato alcuni dettagli">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -217,8 +220,8 @@
       <workItem from="1698181103242" duration="386000" />
       <workItem from="1698304652612" duration="5667000" />
       <workItem from="1699045074428" duration="347000" />
-      <workItem from="1699045713293" duration="104000" />
-      <workItem from="1699046049962" duration="26000" />
+      <workItem from="1699045713293" duration="295000" />
+      <workItem from="1699046031009" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="refactoring">
       <option name="closed" value="true" />
@@ -372,15 +375,7 @@
       <option name="project" value="LOCAL" />
       <updated>1699045732009</updated>
     </task>
-    <task id="LOCAL-00020" summary="REFACTORING: sistemato alcuni dettagli">
-      <option name="closed" value="true" />
-      <created>1699046069780</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1699046069780</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
