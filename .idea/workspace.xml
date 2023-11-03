@@ -38,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +56,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Utente/IdeaProjects/OnMyOwn-SWENG/Lab01",
     "node.js.detected.package.eslint": "true",
@@ -64,6 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -216,8 +216,8 @@
       <workItem from="1697114457809" duration="66000" />
       <workItem from="1698181103242" duration="386000" />
       <workItem from="1698304652612" duration="5667000" />
-      <workItem from="1699045074428" duration="548000" />
-      <workItem from="1699045643427" duration="68000" />
+      <workItem from="1699045074428" duration="347000" />
+      <workItem from="1699045713293" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="refactoring">
       <option name="closed" value="true" />
@@ -365,11 +365,11 @@
     </task>
     <task id="LOCAL-00019" summary="REFACTORING: sistemato alcuni dettagli">
       <option name="closed" value="true" />
-      <created>1699045577671</created>
+      <created>1699045732009</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1699045577671</updated>
+      <updated>1699045732009</updated>
     </task>
     <option name="localTasksCounter" value="20" />
     <servers />
